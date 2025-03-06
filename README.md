@@ -28,6 +28,6 @@ The main structure of the Trefoil Knot follows the parametric equations:
 ---
 
 ### **About the Equation**  
-- The **\( \cos(u/3) \) and \( \sin(u/3) \)** terms control the **3-lobed** structure of the Trefoil Knot.  
-- The **\( r \cos(u/2) \)** and **\( r \sin(u/2) \)** terms create a slight thickness around the main path, making the shape **not just a simple loop but an actual toroidal knot**.  
+- The **\( cos(u/3) \) and \( sin(u/3) \)** terms control the **3-lobed** structure of the Trefoil Knot.  
+- The **\( rcos(u/2) \)** and **\( rsin(u/2) \)** terms create a slight thickness around the main path, making the shape **not just a simple loop but an actual toroidal knot**.  
 - The **parametric nature** ensures a **smooth and continuous** curve with no sharp edges.
