@@ -17,17 +17,10 @@ The equation used in the code to generate the Trefoil Knot follows the parametri
 #### **1. Base Curve (Center of the Tube)**
 The main structure of the Trefoil Knot follows the parametric equations:
 
-\[
-\begin{cases}
-B_x = (R + r \cos(\frac{u}{2})) \cos(\frac{u}{3}) \\
-B_y = (R + r \cos(\frac{u}{2})) \sin(\frac{u}{3}) \\
-B_z = r \sin(\frac{u}{2})
-\end{cases}
-\]
-
+![Image](https://github.com/user-attachments/assets/7b8b2688-fe14-4b7e-8e0d-83165a9d9545)
 
 **Where:**  
-- \( u \) is the parameter that varies over the range \( 0 \leq u \leq 12\pi \) to complete the shape.
+- \( u \) is the parameter that varies over the range 0 ≤ u ≤ 12π to complete the shape.
 - \( R \) is the major radius of the knot (defines the overall size).
 - \( r \) is the minor radius (defines the thickness of the shape).  
 - The **cosine and sine components** determine the twisting and looping of the knot.
